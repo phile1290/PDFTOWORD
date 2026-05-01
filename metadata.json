@@ -1,0 +1,5 @@
+{
+  "name": "CHUYỂN PDF SANG WORD",
+  "description": "Chuyển đổi PDF/Ảnh sang Markdown với công thức Toán/Hóa LaTeX và placeholder hình ảnh.",
+  "requestFramePermissions": []
+}
